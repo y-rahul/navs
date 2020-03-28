@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.first-section {
+  background-image: url("navimg.jpg");
+  background-repeat: no-repeat;
+
+  background-position: center;
+  background-size: cover;
+}
+img {
+  background-repeat: no-repeat;
+  max-width: 100%;
+  background-size: cover;
+}
+.contents h1 h5 {
+  padding-left: 10px;
+  padding-top: 40px;
+}
+
+.navbar,
+.navbar-brand,
+li,
+a {
+  text-decoration: none;
+  color: white;
+}
+.na {
+  float: right;
+}
+.contents {
+  color: white;
+  margin-top: 10%;
+  font-size: 70px;
+  font-family: helvetica;
+  text-align: center;
+}
+.belowcontents {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: helvetica;
+}
+.search {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-left: 30%;
+  margin-top: 2%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 350px;
+  border-radius: 50px 0 0 50px;
+}
+.butt {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin-bottom: 0.4%;
+  padding-right: 40px;
+  border-radius: 0 50px 50px 0;
+}
+.listus {
+  margin-left: 42%;
+  padding-bottom: 10%;
+  border: none;
+  color: white;
+}
+.topnav {
+  font-size: 18px;
+}
